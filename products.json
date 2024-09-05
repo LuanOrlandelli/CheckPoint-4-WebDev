@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Camiseta de Algodão Orgânico",
+      "price": 49.90,
+      "image": "https://www.insiderstore.com.br/cdn/shop/files/Tech-Preta_-_Otimizada.jpg?v=1719864009&width=1200",
+      "category": "Roupa"
+    },
+    {
+      "id": 2,
+      "name": "Bolsa de Fibra de Bambu",
+      "price": 120.00,
+      "image": "https://m.media-amazon.com/images/I/61uQNb1l+PL._AC_SX425_.jpg",
+      "category": "Acessório"
+    },
+    {
+      "id": 3,
+      "name": "Shampoo Sólido Natural",
+      "price": 29.90,
+      "image": "https://simpleorganic.com.br/cdn/shop/files/shampoo-em-barra-balance_1200x.jpg?v=1702133631",
+      "category": "Higiene"
+    },
+    {
+      "id": 4,
+      "name": "Escova de Dente de Bambu",
+      "price": 15.00,
+      "image": "https://img.irroba.com.br/fit-in/600x600/filters:format(webp):fill(fff):quality(80)/lojaayur/catalog/tiny/551223956_Escova_ecologica_de_bambu.jpg",
+      "category": "Higiene"
+    },
+    {
+      "id": 5,
+      "name": "Copo Reutilizável de Aço Inoxidável",
+      "price": 59.90,
+      "image": "https://ae-pic-a1.aliexpress-media.com/kf/S0e8f7afcc465466aa3a65058eb9da149j/Canecas-bebendo-do-metal-do-a-o-inoxid-vel-304-copo-empilh-vel-exterior-reutiliz-vel.jpg_.webp",
+      "category": "Outros"
+    },
+    {
+      "id": 6,
+      "name": "Sabonete Vegano Artesanal",
+      "price": 19.90,
+      "image": "https://acdn.mitiendanube.com/stores/002/495/360/products/sabonete-de-maracuja1-df48528cc48e9d36aa16716461707128-640-0.webp",
+      "category": "Higiene"
+    },
+    {
+      "id": 7,
+      "name": "Fones de Ouvido Biodegradáveis",
+      "price": 149.90,
+      "image": "https://m.media-amazon.com/images/I/41vPsn8ljOL._AC_SX522_.jpg",
+      "category": "Acessório"
+    },
+    {
+      "id": 8,
+      "name": "Kit de Talheres Sustentáveis",
+      "price": 35.00,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_942519-MLB45329284734_032021-O.webp",
+      "category":"Outros"
+    }
+  ]
+  
